@@ -12,30 +12,31 @@ It is written in a tutorial style so that you can recreate the mathematical step
 
 This software has been used in various forms in the following articles:
 
-On the smooth unfolding of bifurcations in quantal-response equilibria (2023)
+[1] On the smooth unfolding of bifurcations in quantal-response equilibria (2023)
 A Harris, S McCallum, MS Harré
 Games and Economic Behavior
 
-Singularities and Catastrophes in Economics: Historical Perspectives and Future Directions (2019)
+[2] Singularities and Catastrophes in Economics: Historical Perspectives and Future Directions (2019)
 Harré, M.S., Harris, A., McCallum, S.
 Romanian Journal of Pure and Applied Mathematics
 
-Multi-agent economics and the emergence of critical markets (2018)
+[3] Multi-agent economics and the emergence of critical markets (2018)
 MS Harré 
 arXiv preprint arXiv:1809.01332
 
-Strategic islands in economic games: Isolating economies from better outcomes (2014)
+[4] Strategic islands in economic games: Isolating economies from better outcomes (2014)
 MS Harré, T Bossomaier 
 Entropy
 
-Simple nonlinear systems and navigating catastrophes (2013)
+[5] Simple nonlinear systems and navigating catastrophes (2013)
 MS Harré, SR Atkinson, L Hossain
 The European Physical Journal B
 
-Hysteresis effects of changing the parameters of noncooperative games (2012)
+[6] Navigating catastrophes: Local but not global optimisation allows for macro-economic navigation of crises (2013)
+MS Harré 
+Journal of Physics: Conference Series
+
+[7] Hysteresis effects of changing the parameters of noncooperative games (2012)
 DH Wolpert, M Harré, E Olbrich, N Bertschinger, J Jost
 Physical Review E 
 
-Navigating catastrophes: Local but not global optimisation allows for macro-economic navigation of crises (2013)
-MS Harré 
-Journal of Physics: Conference Series
